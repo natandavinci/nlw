@@ -3,7 +3,7 @@
 
 > Projeto Construido no evento Next Level Week Da Rocketseat
 
-![Clique aqui para acessar](https://natandavinci.github.io/nlw/)
+[Clique aqui para acessar](https://natandavinci.github.io/nlw/)
 
 ## Tecnologias
 
